@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">Žreb</string>
+
+  <string name="scratch_button">Zotri</string>
+  <string name="main_scratch_button">Zotrieť</string>
+  <string name="main_activate_button">Aktivovať</string>
+  <string name="menu_reset">Reset card</string>
+  <string name="activate_button">Aktivuj</string>
+  <string name="channel_name">Activating channel</string>
+  <string name="channel_description">Activating channel</string>
+  <string name="notification_title">Aktivácia karty</string>
+  <string name="notification_description">Prebieha aktivácia</string>
+  <string name="notification_description_successfully">Úspešná aktivácia karty</string>
+  <string name="notification_description_not_successfully">Aktivácia karty zlyhala</string>
+
+  <string name="scratch_card_state_new">Nová karta</string>
+  <string name="scratch_card_state_scratched">Zotretá karta</string>
+  <string name="scratch_card_state_activated">Aktivovaná karta</string>
+</resources>

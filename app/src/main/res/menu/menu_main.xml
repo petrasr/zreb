@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:context="com.example.card.ui.MainActivity">
+  <item
+    android:id="@+id/reset"
+    app:showAsAction="never"
+    android:title="@string/menu_reset"/>
+</menu>
